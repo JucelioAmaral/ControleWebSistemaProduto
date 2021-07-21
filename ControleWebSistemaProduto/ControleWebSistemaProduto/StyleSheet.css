@@ -1,0 +1,16 @@
+﻿body {
+    background-color:#cecece;
+    font-family:Tahoma;
+    font-size:medium;
+}
+.botao {
+    font-family:Constantia;
+    font-size:small;
+    font-weight:500;
+    background-color:#808080;
+}
+.label_tela {
+    font-family: Algerian;
+    font-size: larger;
+    font-weight: 500;    
+}
